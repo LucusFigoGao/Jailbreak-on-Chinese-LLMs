@@ -330,6 +330,3 @@ torch                     2.0.1
 tqdm                      4.66.4
 transformers              4.36.2
 ```
-
-# Jailbreak-on-Chinese-LLMs
-# Jailbreak-on-Chinese-LLMs
